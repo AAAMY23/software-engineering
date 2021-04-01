@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 文档1
+=======
+hahahahahahah文dddd第二次修改了iiiii档3333333
+>>>>>>> 1df1f80 (another 修改3次)(传入的更改)
+
